@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET_THP\\Lession03.THP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB397F-5C20-4ACB-AA0F-DFA78FBDE667}|Lession03.THP\\Lession03.THP.csproj|d:\\asp.net_thp\\lession03.thp\\lession03.thp\\views\\thpstudent\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CEB397F-5C20-4ACB-AA0F-DFA78FBDE667}|Lession03.THP\\Lession03.THP.csproj|solutionrelative:lession03.thp\\views\\thpstudent\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB397F-5C20-4ACB-AA0F-DFA78FBDE667}|Lession03.THP\\Lession03.THP.csproj|d:\\asp.net_thp\\lession03.thp\\lession03.thp\\views\\shared\\_viewcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CEB397F-5C20-4ACB-AA0F-DFA78FBDE667}|Lession03.THP\\Lession03.THP.csproj|solutionrelative:lession03.thp\\views\\shared\\_viewcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB397F-5C20-4ACB-AA0F-DFA78FBDE667}|Lession03.THP\\Lession03.THP.csproj|d:\\asp.net_thp\\lession03.thp\\lession03.thp\\views\\thpstudent\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CEB397F-5C20-4ACB-AA0F-DFA78FBDE667}|Lession03.THP\\Lession03.THP.csproj|solutionrelative:lession03.thp\\views\\thpstudent\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB397F-5C20-4ACB-AA0F-DFA78FBDE667}|Lession03.THP\\Lession03.THP.csproj|d:\\asp.net_thp\\lession03.thp\\lession03.thp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CEB397F-5C20-4ACB-AA0F-DFA78FBDE667}|Lession03.THP\\Lession03.THP.csproj|solutionrelative:lession03.thp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB397F-5C20-4ACB-AA0F-DFA78FBDE667}|Lession03.THP\\Lession03.THP.csproj|d:\\asp.net_thp\\lession03.thp\\lession03.thp\\controllers\\thpstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEB397F-5C20-4ACB-AA0F-DFA78FBDE667}|Lession03.THP\\Lession03.THP.csproj|solutionrelative:lession03.thp\\controllers\\thpstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB397F-5C20-4ACB-AA0F-DFA78FBDE667}|Lession03.THP\\Lession03.THP.csproj|d:\\asp.net_thp\\lession03.thp\\lession03.thp\\views\\thpstudent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CEB397F-5C20-4ACB-AA0F-DFA78FBDE667}|Lession03.THP\\Lession03.THP.csproj|solutionrelative:lession03.thp\\views\\thpstudent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB397F-5C20-4ACB-AA0F-DFA78FBDE667}|Lession03.THP\\Lession03.THP.csproj|d:\\asp.net_thp\\lession03.thp\\lession03.thp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEB397F-5C20-4ACB-AA0F-DFA78FBDE667}|Lession03.THP\\Lession03.THP.csproj|solutionrelative:lession03.thp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB397F-5C20-4ACB-AA0F-DFA78FBDE667}|Lession03.THP\\Lession03.THP.csproj|d:\\asp.net_thp\\lession03.thp\\lession03.thp\\controllers\\thphomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEB397F-5C20-4ACB-AA0F-DFA78FBDE667}|Lession03.THP\\Lession03.THP.csproj|solutionrelative:lession03.thp\\controllers\\thphomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\Lession03.THP\\Lession03.THP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lession03.THP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET_THP\\Lession03.THP\\Lession03.THP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lession03.THP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T12:34:07.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewContact.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\Lession03.THP\\Lession03.THP\\Views\\Shared\\_ViewContact.cshtml",
+              "RelativeDocumentMoniker": "Lession03.THP\\Views\\Shared\\_ViewContact.cshtml",
+              "ToolTip": "D:\\ASP.NET_THP\\Lession03.THP\\Lession03.THP\\Views\\Shared\\_ViewContact.cshtml",
+              "RelativeToolTip": "Lession03.THP\\Views\\Shared\\_ViewContact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T12:32:59.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\Lession03.THP\\Lession03.THP\\Views\\THPStudent\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "Lession03.THP\\Views\\THPStudent\\AddStudent.cshtml",
+              "ToolTip": "D:\\ASP.NET_THP\\Lession03.THP\\Lession03.THP\\Views\\THPStudent\\AddStudent.cshtml",
+              "RelativeToolTip": "Lession03.THP\\Views\\THPStudent\\AddStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T12:07:40.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentList.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\Lession03.THP\\Lession03.THP\\Views\\THPStudent\\StudentList.cshtml",
+              "RelativeDocumentMoniker": "Lession03.THP\\Views\\THPStudent\\StudentList.cshtml",
+              "ToolTip": "D:\\ASP.NET_THP\\Lession03.THP\\Lession03.THP\\Views\\THPStudent\\StudentList.cshtml",
+              "RelativeToolTip": "Lession03.THP\\Views\\THPStudent\\StudentList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T12:06:28.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\Lession03.THP\\Lession03.THP\\Views\\THPStudent\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lession03.THP\\Views\\THPStudent\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET_THP\\Lession03.THP\\Lession03.THP\\Views\\THPStudent\\Index.cshtml",
+              "RelativeToolTip": "Lession03.THP\\Views\\THPStudent\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T12:05:36.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "THPStudentController.cs",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\Lession03.THP\\Lession03.THP\\Controllers\\THPStudentController.cs",
+              "RelativeDocumentMoniker": "Lession03.THP\\Controllers\\THPStudentController.cs",
+              "ToolTip": "D:\\ASP.NET_THP\\Lession03.THP\\Lession03.THP\\Controllers\\THPStudentController.cs",
+              "RelativeToolTip": "Lession03.THP\\Controllers\\THPStudentController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:05:22.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\Lession03.THP\\Lession03.THP\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Lession03.THP\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\ASP.NET_THP\\Lession03.THP\\Lession03.THP\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Lession03.THP\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:02:11.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "THPHomeController.cs",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\Lession03.THP\\Lession03.THP\\Controllers\\THPHomeController.cs",
+              "RelativeDocumentMoniker": "Lession03.THP\\Controllers\\THPHomeController.cs",
+              "ToolTip": "D:\\ASP.NET_THP\\Lession03.THP\\Lession03.THP\\Controllers\\THPHomeController.cs",
+              "RelativeToolTip": "Lession03.THP\\Controllers\\THPHomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:00:59.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
